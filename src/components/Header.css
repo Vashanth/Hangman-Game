@@ -1,0 +1,12 @@
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #b4b97f;
+    padding: 14px 28px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(26, 22, 22);
+    cursor: pointer;
+  }
